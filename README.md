@@ -1,6 +1,6 @@
 # Calculator
 
-This is a simple calculator web application built using HTML and CSS. The design is a clone of my phone's calculator
+This is a simple calculator web application built using HTML and CSS. The design is inspired by my phone's calculator
 
 ## Features
 
