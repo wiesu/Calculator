@@ -1,4 +1,4 @@
-# Calculator
+# Calculator Project
 
 This is a simple calculator web application built using HTML and CSS. The design is inspired by my phone's calculator
 
